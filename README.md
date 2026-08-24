@@ -3,7 +3,7 @@
 
 ---
 
-### 🇬🇧 About Me
+### About Me
 - 🏫 Studying **Information Technology** at *Haci Ismail Gundogdu Multi-Program Anatolian High School*.
 - 💻 Focusing on **C#, .NET Core**, and Data Structures.
 - 🎯 Goal: Building a solid foundation in backend engineering and software architecture.
