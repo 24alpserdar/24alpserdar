@@ -4,7 +4,7 @@
 ---
 
 ### About Me
-- 🏫 Studying **Information Technology** at *Haci Ismail Gundogdu Multi-Program Anatolian High School*.
+- 🏫 Studying **Information Technology** at **Haci Ismail Gundogdu Trade Vocational and Technical Anatolian High School**.
 - 💻 Focusing on **C#, .NET Core**, and Data Structures.
 - 🎯 Goal: Building a solid foundation in backend engineering and software architecture.
 
@@ -19,6 +19,6 @@
 ---
 
 ### 🇹🇷 Hakkımda (Özet)
-- 🏫 **Hacı İsmail Gündoğdu Çok Programlı Anadolu Lisesi Bilişim Teknolojileri** alanı öğrencisiyim.
+- 🏫 **Hacı İsmail Gündoğdu Ticaret Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri** alanı öğrencisiyim.
 - 💻 **C# ve .NET ekosistemi** üzerine pratik projeler geliştiriyor, Veri Yapıları ve Algoritmalar üzerine çalışıyorum.
 - 🎯 **Hedefim:** Arka plan (Backend) yazılım geliştirme ve mimarisi alanında uzmanlaşmak.
