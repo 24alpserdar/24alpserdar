@@ -19,7 +19,7 @@
 
 ### 📌 Featured Repositories
 
-- 🔹 **[PulseCraft-AI](https://github.com/24alpserdar/PulseCraft-AI):** An AI-powered fitness and nutrition tracking desktop application built with C# UI and Python backend integration.
+- 🔹 **[PulseCraft-AI](https://github.com/24alpserdar/PulseCraft-AI):** Ross-platform fitness and nutrition tracking application
 - 🔹 **[csharp-data-structures-and-collections](https://github.com/24alpserdar/csharp-data-structures-and-collections):** Hands-on implementations of C# Data Structures (Lists, SortedSet, Dictionaries, etc.).
 
 ---
