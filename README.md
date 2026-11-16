@@ -1,30 +1,44 @@
-# Hi there, I'm Alp 👋
-**IT Student & Aspiring C# & Backend Developer**
+<div align="center">
+  <h1>Merhaba, ben Alp! 👋</h1>
+  <h3>Yazılım Geliştirme Öğrencisi 🚀</h3>
+</div>
 
 ---
 
-### 🚀 About Me
-- 🏫 Studying Information Technology at Hacı İsmail Gündoğdu Trade Vocational and Technical Anatolian High School.
-- 💻 Focusing on **C#**, **.NET Core**, **Python**, and **Software Architecture**.
-- 🎯 **Goal:** Building a solid foundation in backend engineering and software architecture.
+### 👨‍💻 Hakkımda
+
+Mesleki ve Teknik Anadolu Lisesi **Bilişim Teknolojileri - Yazılım Geliştirme** dalı öğrencisiyim. Şu aralar **C#** dili üzerine odaklanıyor, veri yapıları ve koleksiyonlar gibi temel konuları pratik yaparak pekiştiriyorum.
+
+- 🔭 **Şu an odaklandığım alan:** C# ile nesne yönelimli programlama ve veri yapıları.
+- 🌱 **Öğrenmeye devam ettiklerim:** Algoritma geliştrme ve koleksiyon yapıları (List, Dictionary, Stack, Queue vb.).
+- 💡 **Hedefim:** C# dilinde sağlam bir temel oluşturup, verimli ve temiz kod yazma becerimi geliştirmek.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** C#, Python, SQL
-- **Frameworks & Tech:** .NET Core, WPF, Console Applications, JSON Architecture
-- **Tools:** Visual Studio, VS Code, Git & GitHub
+### 📌 Öne Çıkan Projem / Repom
+
+* **[C# Data Structures & Collections](https://github.com/24alpserdar/csharp-data-structures-and-collections)**
+  * *Açıklama:* C# programlama dilinde veri yapıları ve koleksiyonların kullanımını gösteren, farklı senaryolara ait pratik uygulamalar ve mini projeler içeren bir depo.
 
 ---
 
-### 📌 Featured Repositories
+### 🛠️ Kullandığım Teknolojiler
 
-- 🔹 **[PulseCraft-AI](https://github.com/24alpserdar/PulseCraft-AI):** An AI-powered fitness and nutrition tracking application built with C# and Python, designed for desktop and mobile-ready cross-platform architecture.
-- 🔹 **[csharp-data-structures-and-collections](https://github.com/24alpserdar/csharp-data-structures-and-collections):** Hands-on implementations of C# Data Structures (Lists, SortedSet, Dictionaries, etc.).
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🇹🇷 Hakkımda (Özet)
-- 🏫 Hacı İsmail Gündoğdu Ticaret Mesleki ve Teknik Anadolu Lisesi Bilişim Teknolojileri alanı öğrencisiyim.
-- 💻 C# ve .NET ekosistemi üzerine pratik projeler geliştiriyor, Veri Yapıları, Algoritmalar ve Python entegrasyonlu mimariler üzerine çalışıyorum.
-- 🎯 **Hedefim:** Arka plan (Backend) yazılım geliştirme ve mimarisi alanında uzmanlaşmak.
+### 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=24alpserdar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24alpserdar&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+---
+
+<div align="center">
+  <i>"Her büyük yazılım, küçük bir satır kodla başlar."</i> ⚡
+</div>
